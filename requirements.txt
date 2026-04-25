@@ -1,9 +1,6 @@
-streamlit
-groq
-chromadb
-textblob
-numpy
-python-dotenv
-librosa
-sounddevice
-scipy
+streamlit==1.41.0
+groq==0.11.0
+chromadb==0.5.23
+textblob==0.18.0
+numpy==1.26.4
+python-dotenv==1.0.1
