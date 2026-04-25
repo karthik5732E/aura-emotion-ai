@@ -1,0 +1,9 @@
+streamlit
+groq
+chromadb
+textblob
+numpy
+python-dotenv
+librosa
+sounddevice
+scipy
